@@ -1,0 +1,390 @@
+Name,Region,Supergroup,Group,Subgroup
+County Durham,North East,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Darlington,North East,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Service Economy
+Hartlepool,North East,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Middlesbrough,North East,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Northumberland,North East,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Redcar and Cleveland,North East,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Stockton-on-Tees,North East,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Gateshead,North East,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Service Economy
+Newcastle upon Tyne,North East,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+North Tyneside,North East,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Service Economy
+South Tyneside,North East,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Service Economy
+Sunderland,North East,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Blackburn with Darwen,North West,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Blackpool,North West,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Service Economy
+Cheshire East,North West,Town and Country Living,Country Living,Country Living
+Cheshire West and Chester,North West,Town and Country Living,Town Living,Prosperous Towns
+Halton,North West,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Warrington,North West,Town and Country Living,Town Living,Prosperous Towns
+Allerdale,North West,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Barrow-in-Furness,North West,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Carlisle,North West,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Copeland,North West,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Eden,North West,Countryside Living,English and Welsh Countryside,Older Farming Communities
+South Lakeland,North West,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Bolton,North West,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Bury,North West,Urban Settlements,Manufacturing Traits,Urban Living
+Manchester,North West,"Business, Education and Heritage Centres",University Towns and Cities,University Towns and Cities
+Oldham,North West,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Rochdale,North West,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Salford,North West,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Stockport,North West,Town and Country Living,Town Living,Prosperous Towns
+Tameside,North West,Urban Settlements,Manufacturing Traits,Urban Living
+Trafford,North West,Urban Settlements,Suburban Traits,City Periphery
+Wigan,North West,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Burnley,North West,Urban Settlements,Manufacturing Traits,Urban Living
+Chorley,North West,Town and Country Living,Town Living,Prosperous Towns
+Fylde,North West,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Hyndburn,North West,Urban Settlements,Manufacturing Traits,Urban Living
+Lancaster,North West,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Pendle,North West,Urban Settlements,Manufacturing Traits,Urban Living
+Preston,North West,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Ribble Valley,North West,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Rossendale,North West,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+South Ribble,North West,Town and Country Living,Town Living,Prosperous Towns
+West Lancashire,North West,Town and Country Living,Town Living,Prosperous Towns
+Wyre,North West,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Knowsley,North West,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Liverpool,North West,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Sefton,North West,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Service Economy
+St. Helens,North West,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Wirral,North West,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Service Economy
+East Riding of Yorkshire,Yorkshire and The Humber,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+"Kingston upon Hull, City of",Yorkshire and The Humber,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+North East Lincolnshire,Yorkshire and The Humber,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+North Lincolnshire,Yorkshire and The Humber,Town and Country Living,Country Living,Country Living
+York,Yorkshire and The Humber,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Craven,Yorkshire and The Humber,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Hambleton,Yorkshire and The Humber,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Harrogate,Yorkshire and The Humber,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Richmondshire,Yorkshire and The Humber,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Ryedale,Yorkshire and The Humber,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Scarborough,Yorkshire and The Humber,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Selby,Yorkshire and The Humber,Town and Country Living,Country Living,Country Living
+Barnsley,Yorkshire and The Humber,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Doncaster,Yorkshire and The Humber,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Rotherham,Yorkshire and The Humber,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Sheffield,Yorkshire and The Humber,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Bradford,Yorkshire and The Humber,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Calderdale,Yorkshire and The Humber,Urban Settlements,Manufacturing Traits,Urban Living
+Kirklees,Yorkshire and The Humber,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Leeds,Yorkshire and The Humber,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Wakefield,Yorkshire and The Humber,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Derby,East Midlands,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Leicester,East Midlands,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Nottingham,East Midlands,"Business, Education and Heritage Centres",University Towns and Cities,University Towns and Cities
+Rutland,East Midlands,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Amber Valley,East Midlands,Town and Country Living,Country Living,Country Living
+Bolsover,East Midlands,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Chesterfield,East Midlands,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Derbyshire Dales,East Midlands,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Erewash,East Midlands,Town and Country Living,Country Living,Country Living
+High Peak,East Midlands,Town and Country Living,Town Living,Prosperous Towns
+North East Derbyshire,East Midlands,Town and Country Living,Town Living,Prosperous Semi-rural
+South Derbyshire,East Midlands,Town and Country Living,Country Living,Country Living
+Blaby,East Midlands,Town and Country Living,Town Living,Prosperous Towns
+Charnwood,East Midlands,Town and Country Living,Town Living,Prosperous Towns
+Harborough,East Midlands,Town and Country Living,Country Living,Country Living
+Hinckley and Bosworth,East Midlands,Town and Country Living,Country Living,Country Living
+Melton,East Midlands,Town and Country Living,Country Living,Country Living
+North West Leicestershire,East Midlands,Town and Country Living,Country Living,Country Living
+Oadby and Wigston,East Midlands,Town and Country Living,Town Living,Prosperous Towns
+Boston,East Midlands,Urban Settlements,Manufacturing Traits,Urban Living
+East Lindsey,East Midlands,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Lincoln,East Midlands,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+North Kesteven,East Midlands,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+South Holland,East Midlands,Town and Country Living,Country Living,Country Living
+South Kesteven,East Midlands,Town and Country Living,Country Living,Country Living
+West Lindsey,East Midlands,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Corby,East Midlands,Urban Settlements,Suburban Traits,Expanding Areas
+Daventry,East Midlands,Town and Country Living,Country Living,Country Living
+East Northamptonshire,East Midlands,Town and Country Living,Country Living,Country Living
+Kettering,East Midlands,Urban Settlements,Manufacturing Traits,Urban Living
+Northampton,East Midlands,Urban Settlements,Suburban Traits,Expanding Areas
+South Northamptonshire,East Midlands,Town and Country Living,Country Living,Country Living
+Wellingborough,East Midlands,Urban Settlements,Suburban Traits,Expanding Areas
+Ashfield,East Midlands,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Bassetlaw,East Midlands,Town and Country Living,Country Living,Country Living
+Broxtowe,East Midlands,Town and Country Living,Town Living,Prosperous Towns
+Gedling,East Midlands,Town and Country Living,Town Living,Prosperous Towns
+Mansfield,East Midlands,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Newark and Sherwood,East Midlands,Town and Country Living,Country Living,Country Living
+Rushcliffe,East Midlands,Affluent England,Thriving Rural,Affluent rural
+"Herefordshire, County of",West Midlands,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Shropshire,West Midlands,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Stoke-on-Trent,West Midlands,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Telford and Wrekin,West Midlands,Urban Settlements,Manufacturing Traits,Urban Living
+Cannock Chase,West Midlands,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+East Staffordshire,West Midlands,Town and Country Living,Country Living,Country Living
+Lichfield,West Midlands,Town and Country Living,Town Living,Prosperous Towns
+Newcastle-under-Lyme,West Midlands,Town and Country Living,Town Living,Prosperous Towns
+South Staffordshire,West Midlands,Town and Country Living,Town Living,Prosperous Semi-rural
+Stafford,West Midlands,Town and Country Living,Town Living,Prosperous Towns
+Staffordshire Moorlands,West Midlands,Town and Country Living,Country Living,Country Living
+Tamworth,West Midlands,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+North Warwickshire,West Midlands,Town and Country Living,Country Living,Country Living
+Nuneaton and Bedworth,West Midlands,Urban Settlements,Manufacturing Traits,Urban Living
+Rugby,West Midlands,Urban Settlements,Suburban Traits,Expanding Areas
+Stratford-on-Avon,West Midlands,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Warwick,West Midlands,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Birmingham,West Midlands,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Coventry,West Midlands,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Dudley,West Midlands,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Sandwell,West Midlands,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Solihull,West Midlands,Town and Country Living,Town Living,Prosperous Towns
+Walsall,West Midlands,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Wolverhampton,West Midlands,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Bromsgrove,West Midlands,Town and Country Living,Town Living,Prosperous Semi-rural
+Malvern Hills,West Midlands,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Redditch,West Midlands,Urban Settlements,Manufacturing Traits,Urban Living
+Worcester,West Midlands,Urban Settlements,Manufacturing Traits,Urban Living
+Wychavon,West Midlands,Town and Country Living,Country Living,Country Living
+Wyre Forest,West Midlands,Town and Country Living,Country Living,Country Living
+Bedford,East,Urban Settlements,Suburban Traits,Expanding Areas
+Central Bedfordshire,East,Affluent England,Thriving Rural,Rural Growth Areas
+Luton,East,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Peterborough,East,Urban Settlements,Suburban Traits,Expanding Areas
+Southend-on-Sea,East,Urban Settlements,Manufacturing Traits,Urban Living
+Thurrock,East,Urban Settlements,Suburban Traits,City Periphery
+Cambridge,East,"Business, Education and Heritage Centres",University Towns and Cities,University Towns and Cities
+East Cambridgeshire,East,Town and Country Living,Country Living,Country Living
+Fenland,East,Town and Country Living,Country Living,Country Living
+Huntingdonshire,East,Town and Country Living,Country Living,Country Living
+South Cambridgeshire,East,Affluent England,Thriving Rural,Affluent rural
+Basildon,East,Urban Settlements,Suburban Traits,City Periphery
+Braintree,East,Town and Country Living,Country Living,Country Living
+Brentwood,East,Affluent England,Thriving Rural,Rural Growth Areas
+Castle Point,East,Town and Country Living,Town Living,Prosperous Semi-rural
+Chelmsford,East,Affluent England,Thriving Rural,Rural Growth Areas
+Colchester,East,Affluent England,Thriving Rural,Rural Growth Areas
+Epping Forest,East,Affluent England,Thriving Rural,Rural Growth Areas
+Harlow,East,Urban Settlements,Suburban Traits,City Periphery
+Maldon,East,Town and Country Living,Country Living,Country Living
+Rochford,East,Town and Country Living,Town Living,Prosperous Semi-rural
+Tendring,East,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Uttlesford,East,Affluent England,Thriving Rural,Rural Growth Areas
+Broxbourne,East,Urban Settlements,Suburban Traits,City Periphery
+Dacorum,East,Affluent England,Thriving Rural,Rural Growth Areas
+East Hertfordshire,East,Affluent England,Thriving Rural,Rural Growth Areas
+Hertsmere,East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+North Hertfordshire,East,Affluent England,Thriving Rural,Rural Growth Areas
+St Albans,East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Stevenage,East,Urban Settlements,Suburban Traits,City Periphery
+Three Rivers,East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Watford,East,Urban Settlements,Suburban Traits,Expanding Areas
+Welwyn Hatfield,East,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Breckland,East,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Broadland,East,Town and Country Living,Country Living,Country Living
+Great Yarmouth,East,Countryside Living,Remoter Coastal Living,Seaside Living
+King's Lynn and West Norfolk,East,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+North Norfolk,East,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Norwich,East,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+South Norfolk,East,Town and Country Living,Country Living,Country Living
+Babergh,East,Town and Country Living,Country Living,Country Living
+Forest Heath,East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Ipswich,East,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Mid Suffolk,East,Town and Country Living,Country Living,Country Living
+St Edmundsbury,East,Town and Country Living,Country Living,Country Living
+Suffolk Coastal,East,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Waveney,East,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Barking and Dagenham,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Barnet,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Bexley,London,Urban Settlements,Suburban Traits,City Periphery
+Brent,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Bromley,London,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Camden,London,London Cosmopolitan,London Cosmopolitan,London Cosmopolitan
+City of London/Westminster,London,London Cosmopolitan,London Cosmopolitan,London Cosmopolitan
+Croydon,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Ealing,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Enfield,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Greenwich,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Hackney,London,London Cosmopolitan,London Cosmopolitan,London Cosmopolitan
+Hammersmith and Fulham,London,London Cosmopolitan,London Cosmopolitan,London Cosmopolitan
+Haringey,London,London Cosmopolitan,London Cosmopolitan,London Cosmopolitan
+Harrow,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Havering,London,Urban Settlements,Suburban Traits,City Periphery
+Hillingdon,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Hounslow,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Islington,London,London Cosmopolitan,London Cosmopolitan,London Cosmopolitan
+Kensington and Chelsea,London,London Cosmopolitan,London Cosmopolitan,London Cosmopolitan
+Kingston upon Thames,London,"Business, Education and Heritage Centres",University Towns and Cities,University Towns and Cities
+Lambeth,London,London Cosmopolitan,London Cosmopolitan,London Cosmopolitan
+Lewisham,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Merton,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Newham,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Redbridge,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Richmond upon Thames,London,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Southwark,London,London Cosmopolitan,London Cosmopolitan,London Cosmopolitan
+Sutton,London,Urban Settlements,Suburban Traits,City Periphery
+Tower Hamlets,London,London Cosmopolitan,London Cosmopolitan,London Cosmopolitan
+Waltham Forest,London,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Wandsworth,London,London Cosmopolitan,London Cosmopolitan,London Cosmopolitan
+Bracknell Forest,South East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Brighton and Hove,South East,"Business, Education and Heritage Centres",University Towns and Cities,University Towns and Cities
+Isle of Wight,South East,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Medway,South East,Urban Settlements,Suburban Traits,City Periphery
+Milton Keynes,South East,Urban Settlements,Suburban Traits,Expanding Areas
+Portsmouth,South East,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Reading,South East,"Business, Education and Heritage Centres",University Towns and Cities,University Towns and Cities
+Slough,South East,Ethnically Diverse Metropolitan Living,Ethnically Diverse Metropolitan  Living,Ethnically Diverse Metropolitan  Living
+Southampton,South East,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+West Berkshire,South East,Affluent England,Thriving Rural,Rural Growth Areas
+Windsor and Maidenhead,South East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Wokingham,South East,Affluent England,Thriving Rural,Affluent rural
+Aylesbury Vale,South East,Affluent England,Thriving Rural,Rural Growth Areas
+Chiltern,South East,Affluent England,Thriving Rural,Affluent rural
+South Bucks,South East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Wycombe,South East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Eastbourne,South East,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Hastings,South East,Urban Settlements,Manufacturing Traits,Urban Living
+Lewes,South East,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Rother,South East,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Wealden,South East,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Basingstoke and Deane,South East,Affluent England,Thriving Rural,Rural Growth Areas
+East Hampshire,South East,Affluent England,Thriving Rural,Affluent rural
+Eastleigh,South East,Town and Country Living,Town Living,Prosperous Towns
+Fareham,South East,Town and Country Living,Town Living,Prosperous Towns
+Gosport,South East,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Service Economy
+Hart,South East,Affluent England,Thriving Rural,Affluent rural
+Havant,South East,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+New Forest,South East,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Rushmoor,South East,Urban Settlements,Suburban Traits,Expanding Areas
+Test Valley,South East,Affluent England,Thriving Rural,Rural Growth Areas
+Winchester,South East,Affluent England,Thriving Rural,Affluent rural
+Ashford,South East,Town and Country Living,Country Living,Country Living
+Canterbury,South East,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Dartford,South East,Urban Settlements,Suburban Traits,City Periphery
+Dover,South East,Countryside Living,Remoter Coastal Living,Seaside Living
+Gravesham,South East,Urban Settlements,Suburban Traits,City Periphery
+Maidstone,South East,Affluent England,Thriving Rural,Rural Growth Areas
+Sevenoaks,South East,Affluent England,Thriving Rural,Rural Growth Areas
+Shepway,South East,Countryside Living,Remoter Coastal Living,Seaside Living
+Swale,South East,Town and Country Living,Country Living,Country Living
+Thanet,South East,Countryside Living,Remoter Coastal Living,Seaside Living
+Tonbridge and Malling,South East,Affluent England,Thriving Rural,Rural Growth Areas
+Tunbridge Wells,South East,Affluent England,Thriving Rural,Rural Growth Areas
+Cherwell,South East,Affluent England,Thriving Rural,Rural Growth Areas
+Oxford,South East,"Business, Education and Heritage Centres",University Towns and Cities,University Towns and Cities
+South Oxfordshire,South East,Affluent England,Thriving Rural,Affluent rural
+Vale of White Horse,South East,Affluent England,Thriving Rural,Affluent rural
+West Oxfordshire,South East,Affluent England,Thriving Rural,Affluent rural
+Elmbridge,South East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Epsom and Ewell,South East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Guildford,South East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Mole Valley,South East,Affluent England,Thriving Rural,Affluent rural
+Reigate and Banstead,South East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Runnymede,South East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Spelthorne,South East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Surrey Heath,South East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Tandridge,South East,Affluent England,Thriving Rural,Rural Growth Areas
+Waverley,South East,Affluent England,Thriving Rural,Affluent rural
+Woking,South East,Affluent England,Rural-Urban Fringe,Rural-Urban Fringe
+Adur,South East,Town and Country Living,Town Living,Prosperous Towns
+Arun,South East,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Chichester,South East,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Crawley,South East,Urban Settlements,Suburban Traits,Expanding Areas
+Horsham,South East,Affluent England,Thriving Rural,Rural Growth Areas
+Mid Sussex,South East,Affluent England,Thriving Rural,Rural Growth Areas
+Worthing,South East,Urban Settlements,Manufacturing Traits,Urban Living
+Bath and North East Somerset,South West,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Bournemouth,South West,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+"Bristol, City of",South West,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Cornwall/Isles of Scilly,South West,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+North Somerset,South West,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Plymouth,South West,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Poole,South West,Town and Country Living,Town Living,Prosperous Towns
+South Gloucestershire,South West,Town and Country Living,Town Living,Prosperous Towns
+Swindon,South West,Urban Settlements,Suburban Traits,Expanding Areas
+Torbay,South West,Countryside Living,Remoter Coastal Living,Seaside Living
+Wiltshire,South West,Town and Country Living,Country Living,Country Living
+East Devon,South West,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Exeter,South West,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Mid Devon,South West,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+North Devon,South West,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+South Hams,South West,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Teignbridge,South West,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Torridge,South West,Countryside Living,English and Welsh Countryside,Older Farming Communities
+West Devon,South West,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Christchurch,South West,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+East Dorset,South West,Countryside Living,English and Welsh Countryside,Older Farming Communities
+North Dorset,South West,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Purbeck,South West,Countryside Living,English and Welsh Countryside,Older Farming Communities
+West Dorset,South West,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Weymouth and Portland,South West,Countryside Living,Remoter Coastal Living,Seaside Living
+Cheltenham,South West,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Cotswold,South West,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Forest of Dean,South West,Town and Country Living,Country Living,Country Living
+Gloucester,South West,Urban Settlements,Manufacturing Traits,Urban Living
+Stroud,South West,Town and Country Living,Country Living,Country Living
+Tewkesbury,South West,Town and Country Living,Country Living,Country Living
+Mendip,South West,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Sedgemoor,South West,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+South Somerset,South West,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Taunton Deane,South West,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+West Somerset,South West,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Isle of Anglesey,Wales,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Gwynedd,Wales,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Conwy,Wales,Countryside Living,Remoter Coastal Living,Ageing Coastal Living
+Denbighshire,Wales,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Flintshire,Wales,Town and Country Living,Country Living,Country Living
+Wrexham,Wales,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Manufacturing Legacy
+Ceredigion,Wales,Countryside Living,English and Welsh Countryside,Older Farming Communities
+Pembrokeshire,Wales,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Carmarthenshire,Wales,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Swansea,Wales,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Service Economy
+Neath Port Talbot,Wales,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Bridgend,Wales,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Vale of Glamorgan,Wales,Town and Country Living,Town Living,Prosperous Towns
+Cardiff,Wales,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Rhondda Cynon Taf,Wales,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Caerphilly,Wales,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Blaenau Gwent,Wales,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Torfaen,Wales,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Monmouthshire,Wales,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Newport,Wales,Urban Settlements,Manufacturing Traits,Industrial and Multi-ethnic
+Powys,Wales,Countryside Living,English and Welsh Countryside,Sparse English and Welsh Countryside
+Merthyr Tydfil,Wales,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Aberdeen City,Scotland,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Aberdeenshire,Scotland,Town and Country Living,Country Living,Country Living
+Angus,Scotland,Countryside Living,Scottish Countryside,Scottish Countryside
+Argyll and Bute,Scotland,Countryside Living,Scottish Countryside,Scottish Countryside
+City of Edinburgh,Scotland,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Clackmannanshire,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+Dumfries and Galloway,Scotland,Countryside Living,Scottish Countryside,Scottish Countryside
+Dundee City,Scotland,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+East Ayrshire,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+East Dunbartonshire,Scotland,Town and Country Living,Town Living,Prosperous Semi-rural
+East Lothian,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+East Renfrewshire,Scotland,Town and Country Living,Town Living,Prosperous Semi-rural
+Falkirk,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+Fife,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+Glasgow City,Scotland,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Highland,Scotland,Countryside Living,Scottish Countryside,Scottish Countryside
+Inverclyde,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+Midlothian,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+Moray,Scotland,Countryside Living,Scottish Countryside,Scottish Countryside
+Na h-Eileanan Siar,Scotland,Countryside Living,Scottish Countryside,Scottish Countryside
+North Ayrshire,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+North Lanarkshire,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+Orkney Islands,Scotland,Countryside Living,Scottish Countryside,Scottish Countryside
+Perth and Kinross,Scotland,Countryside Living,Scottish Countryside,Scottish Countryside
+Renfrewshire,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+Scottish Borders,Scotland,Countryside Living,Scottish Countryside,Scottish Countryside
+Shetland Islands,Scotland,Town and Country Living,Country Living,Country Living
+South Ayrshire,Scotland,Countryside Living,Scottish Countryside,Scottish Countryside
+South Lanarkshire,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+Stirling,Scotland,Countryside Living,Scottish Countryside,Scottish Countryside
+West Dunbartonshire,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+West Lothian,Scotland,Services and Industrial Legacy,Scottish Industrial Heritage,Scottish Industrial Legacy
+Antrim and Newtownabbey,Northern Ireland,Town and Country Living,Northern Ireland Countryside,Northern Ireland Countryside
+Ards and North Down,Northern Ireland,Town and Country Living,Town Living,Prosperous Towns
+"Armagh City, Banbridge and Craigavon",Northern Ireland,Town and Country Living,Northern Ireland Countryside,Northern Ireland Countryside
+Belfast,Northern Ireland,"Business, Education and Heritage Centres",Larger Towns and Cities,Larger Towns and Cities
+Causeway Coast and Glens,Northern Ireland,Town and Country Living,Northern Ireland Countryside,Northern Ireland Countryside
+Derry City and Strabane,Northern Ireland,Services and Industrial Legacy,"Services, Manufacturing and Mining Legacy",Mining Legacy
+Fermanagh and Omagh,Northern Ireland,Town and Country Living,Northern Ireland Countryside,Northern Ireland Countryside
+Lisburn and Castlereagh,Northern Ireland,Town and Country Living,Northern Ireland Countryside,Northern Ireland Countryside
+Mid and East Antrim,Northern Ireland,Town and Country Living,Northern Ireland Countryside,Northern Ireland Countryside
+Mid Ulster,Northern Ireland,Town and Country Living,Northern Ireland Countryside,Northern Ireland Countryside
+"Newry, Mourne and Down",Northern Ireland,Town and Country Living,Northern Ireland Countryside,Northern Ireland Countryside
